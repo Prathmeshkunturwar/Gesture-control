@@ -29,7 +29,7 @@ Future work includes expanding the gesture recognition capabilities to support m
 Getting Started
 To set up the system, ensure that Python 3.8 or higher and Node.js are installed. Dependencies listed in requirements.txt for Python and package.json for JavaScript need to be installed. Follow the installation instructions and run the application as specified.
 
-This version maintains clarity and flows smoothly for each section.
+
 
 
 
