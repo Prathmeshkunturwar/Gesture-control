@@ -1,6 +1,4 @@
 
-Memory updated
-Here's the shortened README file with paragraphs:
 
 Hand Gesture Control System
 Overview
